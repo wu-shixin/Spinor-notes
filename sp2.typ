@@ -53,3 +53,8 @@ $
 Furthermore, let $J=A^x e^(i phi_x) arrow(H)+A^y e^(i phi_y)arrow(V)$.
 Let the diagonal $arrow(D)=frac(1, sqrt(2)) arrow(H)+frac(1, sqrt(2)) arrow(V)$, and anti-diagonal $arrow(A)=frac(1, sqrt(2)) arrow(H)-frac(1, sqrt(2)) arrow(V)$.
 
+// Furthermore, let $A^x=A^y=1$, and $phi_x=0$ and $phi_y=pi/2$
+
+Furthermore, let
+Let left circular polarization $arrow(L)=frac(1, sqrt(2)) arrow(H)+frac(i, sqrt(2)) arrow(V)$, and right circular polarization $arrow(R)=frac(1, sqrt(2)) arrow(H)-frac(i, sqrt(2)) arrow(V)$.
+
